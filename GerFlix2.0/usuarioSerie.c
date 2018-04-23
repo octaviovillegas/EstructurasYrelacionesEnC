@@ -10,8 +10,8 @@ void CrearListadoUsuariosYSeries(eUsuarioSerie misRelaciones[])
 
     for(i=0;i<10;i++)
     {
-       eUsuarioSerie[i].idSerie=serie[i];
-       eUsuarioSerie[i].idUsuario=usuario[i];
+       misRelaciones[i].idSerie=serie[i];
+       misRelaciones[i].idUsuario=usuario[i];
     }
 
 }

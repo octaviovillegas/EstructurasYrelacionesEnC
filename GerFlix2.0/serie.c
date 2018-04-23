@@ -1,10 +1,10 @@
 #include "serie.h"
 
 
-void CrearListadoSeries(eSerie array[],int cantidad)
+void CrearListadoSeries(eSerie array[])
 {
     int i;
-    for(i=0;i<cantidad;i++)
+    for(i=0;i<5;i++)
     {
         array[i].idSerie=i+1;
         if(i%2==0)
