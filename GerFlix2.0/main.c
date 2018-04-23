@@ -15,7 +15,7 @@
 int main()
 {
     eSerie listadoSeries[TAMANIO];
-
+    CrearListadoSeries(listadoSeries,5);
 
     printf("Hello world!\n");
     return 0;
