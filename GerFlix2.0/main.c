@@ -44,7 +44,6 @@ void mostarLosUsuariosConSusSeries( eSerie listSerie[],int cantSer , eUsuario li
                 printf("\nusuario: %s",listUsuario[j].nombre);
                 break;
             }
-
         }
          for(j=0;j<cantSer;j++)
         {
@@ -53,8 +52,6 @@ void mostarLosUsuariosConSusSeries( eSerie listSerie[],int cantSer , eUsuario li
                 printf("serie: %s",listSerie[j].nombre);
                 break;
             }
-             if(j==5)
-                break;
         }
 
 

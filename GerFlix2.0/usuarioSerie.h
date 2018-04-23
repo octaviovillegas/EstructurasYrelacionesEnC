@@ -1,3 +1,5 @@
+
+
 #ifndef USUARIOSERIE_H_INCLUDED
 #define USUARIOSERIE_H_INCLUDED
 
@@ -8,3 +10,4 @@ typedef struct{
 
 
 #endif // USUARIOSERIE_H_INCLUDED
+

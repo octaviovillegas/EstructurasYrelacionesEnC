@@ -2,7 +2,7 @@
 1524491167 source:c:\test\villegas\en git\structurasyrelacionesenc\gerflix2.0\usuario.c
 	"usuario.h"
 
-1524494068 source:c:\test\villegas\en git\structurasyrelacionesenc\gerflix2.0\usuarioserie.c
+1524495394 source:c:\test\villegas\en git\structurasyrelacionesenc\gerflix2.0\usuarioserie.c
 	"usuarioSerie.h"
 
 1524494139 source:c:\test\villegas\en git\structurasyrelacionesenc\gerflix2.0\serie.c
@@ -12,12 +12,12 @@
 
 1524485551 c:\test\villegas\en git\structurasyrelacionesenc\gerflix2.0\usuario.h
 
-1524494973 source:c:\test\villegas\en git\structurasyrelacionesenc\gerflix2.0\main.c
+1524495408 source:c:\test\villegas\en git\structurasyrelacionesenc\gerflix2.0\main.c
 	<stdio.h>
 	<stdlib.h>
 	"serie.h"
 	"usuario.h"
 	"usuarioSerie.h"
 
-1524490107 c:\test\villegas\en git\structurasyrelacionesenc\gerflix2.0\usuarioserie.h
+1524495414 c:\test\villegas\en git\structurasyrelacionesenc\gerflix2.0\usuarioserie.h
 
