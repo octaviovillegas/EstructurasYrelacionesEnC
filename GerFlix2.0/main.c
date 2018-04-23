@@ -1,5 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "serie.h"
+#include "usuario.h"
+#include "usuarioSerie.h"
+#define TAMANIO 5
+
 /**
 *
     1. los datos de la serie que ve cada usuario
@@ -9,6 +14,9 @@
 */
 int main()
 {
+    eSerie listadoSeries[TAMANIO];
+
+
     printf("Hello world!\n");
     return 0;
 }

@@ -4,7 +4,7 @@
 typedef struct{
     int idUsuario;
     int idSerie;
-}eUsuario;
+}eUsuarioSerie;
 
 
 #endif // USUARIOSERIE_H_INCLUDED
