@@ -1,2 +1,2 @@
-# StructurasYrelacionesEnC
+# EstructurasYrelacionesEnC
 StructurasYrelacionesEnC
