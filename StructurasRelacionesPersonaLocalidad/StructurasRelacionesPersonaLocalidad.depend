@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1524484397 source:c:\test\villegas\structurasrelacionespersonalocalidad\persona.c
+	"persona.h"
+
+1524484383 source:c:\test\villegas\structurasrelacionespersonalocalidad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1524484226 c:\test\villegas\structurasrelacionespersonalocalidad\persona.h
+
